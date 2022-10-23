@@ -20,7 +20,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 
 
-![BasicMap](Images/2-BasicMap.png)
+![BasicMap](Images/BasicMap.png)
 
 ___
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
